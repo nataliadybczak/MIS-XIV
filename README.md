@@ -1,2 +1,2 @@
-# MIS12
-Simple HTML webpage created for the event MIS12
+# MIS13
+Simple HTML webpage created for the event MIS13
