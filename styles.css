@@ -8,7 +8,7 @@
 
 .fullc {
   /* background-color: #ffb700 !important; */
-  background-image: url(images/fullc.svg);
+  background-image: url(images/tlo1.svg);
   background-size: cover;
   /* box-shadow: 10px 10px 5px grey; */
 }
@@ -16,7 +16,7 @@
 
 .lessc {
   /* background-color: #ffcc4d; */
-  background-image: url(images/lessc.svg);
+  background-image: url(images/tlo2.svg);
   background-size: cover;
   /* box-shadow: 10px 10px 5px grey; */
 }
