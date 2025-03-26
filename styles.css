@@ -8,7 +8,7 @@
 
 .fullc {
   /* background-color: #ffb700 !important; */
-  background-image: url(images/tlo1.svg);
+  background-image: url(images/backgrounds/turquoise.svg);
   background-size: cover;
   /* box-shadow: 10px 10px 5px grey; */
 }
@@ -16,7 +16,7 @@
 
 .lessc {
   /* background-color: #ffcc4d; */
-  background-image: url(images/tlo2.svg);
+  background-image: url(images/backgrounds/light_pink.svg);
   background-size: cover;
   /* box-shadow: 10px 10px 5px grey; */
 }
@@ -60,6 +60,12 @@
   color: white;
   text-shadow: 1px 1px grey;
   width: 50%;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.card-deck {
+  padding: 20px;
 }
 
 @media only screen and (max-width: 768px){
