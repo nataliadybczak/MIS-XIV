@@ -1,2 +1,2 @@
-# MIS IV
-Simple HTML webpage created for the event MIS IV
+# MIS XIV
+Simple HTML webpage created for the event MIS XIV
